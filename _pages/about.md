@@ -14,3 +14,31 @@ redirect_from:
 * Ph.D. in Kinesiology (Cognitive Motor Neuroscience) — Michigan State University, 2022
 * M.S. in Kinesiology (Motor Neuroscience) — Texas A&M University, 2015
 * Bachelor of Physiotherapy — Maharaja Sayajirao University of Baroda, India, 2013
+
+<div class="cta-buttons">
+  <a href="/publications/" class="btn btn--info">Publications</a>
+  <a href="/teaching/" class="btn btn--info">Teaching</a>
+  <a href="/files/CV_PriyaPatel.pdf" class="btn btn--info" target="_blank">CV</a>
+</div>
+
+<style>
+.cta-buttons {
+  margin: 30px 0;
+  text-align: center;
+}
+
+.cta-buttons .btn {
+  margin: 5px 10px;
+  display: inline-block;
+  min-width: 140px;
+}
+
+@media (max-width: 768px) {
+  .cta-buttons .btn {
+    display: block;
+    margin: 10px auto;
+    width: 80%;
+    max-width: 300px;
+  }
+}
+</style>
