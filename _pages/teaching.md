@@ -9,7 +9,6 @@ author_profile: true
 - **Critical thinking** by connecting theoretical concepts to current research and practice  
 - **Professional preparation** by developing skills essential for careers in kinesiology and related fields
 
----
 ## Current Courses - California State University, Fullerton
 
 ### KNES 461: Biomechanical Analysis of Human Movement
@@ -23,8 +22,6 @@ author_profile: true
 ### KNES 360: Movement Anatomy
 **Term:** Fall 2022 - Present
 - An integrated approach to understanding human anatomy through the lens of movement and function. This course emphasizes the relationship between anatomical structures and their roles in producing coordinated movement patterns.
-
----
 
 ## Previous Courses
 
